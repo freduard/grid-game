@@ -13,6 +13,6 @@ document.addEventListener("click", function(event) {
             if(tiles.length === 0){
                 clearInterval(interval);
             }
-        }, 500)
+        }, 250)
     }
 });
